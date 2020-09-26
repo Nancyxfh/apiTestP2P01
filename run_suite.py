@@ -1,4 +1,4 @@
-# coding = "utf-8"
+# coding = "utf8"
 # 1.导包
 import os
 import unittest
